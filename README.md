@@ -1,4 +1,4 @@
-# SwiftProjectCodingRules
+# SwiftProjectNamingRules
 ---
 # Overview
 ## Swiftプロジェクトを個人開発する際のルールまとめ
