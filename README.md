@@ -1,5 +1,4 @@
 SwiftProjectNamingRules
-====
-Overview
-
+---
+# Overview
 ## Description
