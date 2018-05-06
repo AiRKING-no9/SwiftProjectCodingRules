@@ -1,7 +1,6 @@
 # SwiftProjectNamingRules
 ---
 # Overview
-# Description
 ## Swiftプロジェクトを個人開発する際のルールまとめ
 ### * 命名ルール:
 * 変数に関しては先頭文字小文字移行の単語を大文字で表示するローワーキャメルで命名する
@@ -72,8 +71,7 @@ SwiftのStringには互換性があるためStringを利用する
 ### * 整数型
 
 
-
-
-
-
+# Description
+個人的に開発をするための指標のルールですので、参考にしていただける場合はあくまで参考の範囲内でお願いします。
+内容に関する指摘・アドバイスなどありましたら "issue" のほうにご記載願いますm(_ _)m
 ## <u>作成に伴う[参考先ページ](https://qiita.com/masanori-inukai/items/663e23f2390bf52fcffd)</u>
